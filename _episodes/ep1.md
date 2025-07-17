@@ -1,6 +1,5 @@
 ---
 title: episode one
-parent: episodes
 nav_order: 1
 ---
 
