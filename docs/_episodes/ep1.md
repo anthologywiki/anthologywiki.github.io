@@ -1,5 +1,5 @@
 ---
-title: 1: welcome home
+title: 1 - welcome home
 nav_order: 1
 layout: default
 ---
