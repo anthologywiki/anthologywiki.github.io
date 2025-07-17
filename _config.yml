@@ -15,7 +15,6 @@ collections:
   cast:
     permalink: "/:collection/:path/"
     output: true
-    layout: default
   episodes:
     permalink: "/:collection/:path/"
     output: true
