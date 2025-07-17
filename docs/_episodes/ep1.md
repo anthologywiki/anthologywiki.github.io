@@ -1,5 +1,5 @@
 ---
-title: 1 - welcome home
+title: episode one
 nav_order: 1
 layout: default
 ---
