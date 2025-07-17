@@ -10,13 +10,14 @@ aux_links_new_tab: true
 
 nav_enabled: true
 
+collections_dir: docs
 collections:
-    cast:
-      permalink: "/:collection/:path/"
-      output: true
-    episodes:
-      permalink: "/:collection/:path/"
-      output: true
+  cast:
+    permalink: "/:collection/:path/"
+    output: true
+  episodes:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
