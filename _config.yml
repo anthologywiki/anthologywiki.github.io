@@ -5,5 +5,22 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  anthology: https://anthologyrp.tumblr.com
-  cast: https://anthologycast.tumblr.com
+  anthology home: https://anthologyrp.tumblr.com
+aux_links_new_tab: true
+
+nav_enabled: true
+
+collections:
+    cast:
+      permalink: "/:collection/:path/"
+      output: true
+    episodes:
+      permalink: "/:collection/:path/"
+      output: true
+
+just_the_docs:
+  collections:
+    cast:
+      name: Cast
+    episodes:
+      name: Episodes
