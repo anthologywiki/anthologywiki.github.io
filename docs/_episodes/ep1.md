@@ -98,7 +98,7 @@ the antler god visits you in your dreams once more. or, no-that’s not right. i
 <br/>
 </details>
 
-### OF THE FOREST
+## OF THE FOREST
 
 <details>
 <summary><strong>STAG</strong></summary>
@@ -129,8 +129,9 @@ you climb higher up the mountain, for long enough that you start wishing you bro
 <br/>
 </blockquote>
 </details>
+<br/><br/>
 </details>
-
+<br/><br/>
 <details>
 <summary><strong>BAT</strong></summary>
 <br/>
@@ -168,5 +169,7 @@ DO YOU…<br/>
 YOU HAVE FED YOUR BLOOD TO THE SOIL THE ANTLER GOD REIGNS OVER. YOU FEEL YOUR CONNECTION DEEPEN — 
 <br>the visions your muse now receives no longer seem to have a distorted film over them and are easier for you to discern.
 <br/></details>
-<br/>
+<br/><br/>
 </details>
+
+## ORDER OF THE RABBITS
