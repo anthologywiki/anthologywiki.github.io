@@ -81,14 +81,19 @@ layout: default
 >
 > DO YOU…
 > **ignore it**: nothing happens
-> **go back into the woods during the day** > **bottle up some of the dirt and check in with one of the ginseng farmers to ask if they notice anything special about it**
+>
+> **go back into the woods during the day**
+>
+> **bottle up some of the dirt and check in with one of the ginseng farmers to ask if they notice anything special about it**
 
 #### GO BACK INTO THE WOODS DURING THE DAY
 
 > your body starts to relax, the same way it always does when you get this deep in the woods. if only your mind would do the same. it buzzes with the warnings your grandmother used to tell you, which you refuse to heed, even if if you’re not conscious for the transgressions. you are for this one though and that makes you feel worse. you’ve been walking for at least two hours when you start noticing the change in earth. the higher up you go, the more it changes into that clay-red you buried your bed in. in your chest your heart beats inexplicably faster.
 >
 > DO YOU…
+>
 > **head home**: nothing happens
+>
 > **continue on**:
 >
 > > you climb higher up the mountain, for long enough that you start wishing you brought a water bottle. finally, you reach your destination. you can tell it’s your destination because there’s a hole in the ground with piles of dirt all around it, looking like a meteor struck it from the inside out. there’s a tree standing guard above it, the bark tinged black from a burn, a crack running down the middle. you creep closer, and your heart picks up in time with you. at the edge of the hole, you peer down. inside is a coffin stood up vertically, the dirt packed down around the bottom shows it was buried that way. the lid is sealed shut by an uneven line of nails that look rusted. there are ribbons of cut up flowers ringing the box like a decoration. or, no, not a box. a coffin buried wrong. you feel a shiver drag down your spine like ice despite the heat. something in you tells you to leave, to run. but there’s another piece, the part that you hide away that feels strangely…at home. you move in closer, ignoring the dirt now lodged inside of your shoes. you swear you can hear the light scratching of something coming from inside the coffin.
@@ -99,6 +104,7 @@ layout: default
 >
 > DO YOU…
 > **heed the farmer’s warning and stay in town**: nothing happens
+>
 > **travel through the woods and up the mountain**:
 >
 > > you climb higher up the mountain, for long enough that you start wishing you brought a water bottle. finally, you reach your destination. you can tell it’s your destination because there’s a hole in the ground with piles of dirt all around it, looking like a meteor struck it from the inside out. there’s a tree standing guard above it, the bark tinged black from a burn. a crack running down the middle. you creep closer, and your heart picks up in time with you. at the edge of the hole you peer down. inside is a coffin stood up vertically, the dirt packed down around the bottom shows it was buried that way. the lid is left open like a door. there is nothing inside.
@@ -122,7 +128,10 @@ layout: default
 > YOU HEAR YOUR SIBLING’S VOICE CALLING FROM THE TREES—
 > which doesn’t make sense, because your sibling’s been gone for a while now. but you hear it clear as day as you’re walking near the treeline, their voice calling your name; young and warbling like the birds singing behind it. it doesn’t make sense, but you follow it anyway. you crash too fast through the underbrush and chase the voice that sounds like it’s running from you, like it’s luring you. by the time it halts, echoes around you in a laugh, you’re panting and tired. the back of your throat is dry, even if the sun can’t reach you between the thick blanket of leaves overhead. at your feet is a briar patch. it’s sprawling and overgrown for as far as you can see. the thorns of it are thick, curved, waiting like fish hooks in a pond. and in the middle, sitting like bait, is the bracelet you gave to your sibling on their very last birthday, woven from colorful string, now desaturated after so many years exposed. they were here and now, so are you.
 > DO YOU…
-> **leave the bracelet be and return home** > **reach into the briars and take it**
+>
+> **leave the bracelet be and return home**
+>
+> **reach into the briars and take it**
 
 #### LEAVE BRACELET
 
